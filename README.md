@@ -11,6 +11,7 @@ Skills:  C / C++ / Python / HTML / CSS
 
 - 🔭 I’m currently working on building my own portfolio 
 - 🌱 I’m currently learning Java,Javascript, react js, PHP, ( Data structure and algorithms, mathematics ) << endl;
+- 
 Learning Resource (Open Source CS degree, Freecodecamp, Udemy Courses, Youtube crash courses as well as edx such as CS50 from Harvard Uni;
 - 🤔 I’m looking for help with Web Internship opportunity 
 - 📫 How to reach me: https://www.linkedin.com/in/veng-srun/ 
