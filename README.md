@@ -1,7 +1,9 @@
 ### Hi there 👋, my name is Srun !
 #### I am a Self-taught developer.
 ![I am a Self-taught developer.](https://raw.githubusercontent.com/WANGZUNN/WANGZUNN/main/banner.png?token=AVSGG6PSDVNBLRRSRN5UNTTBTO6C2)
-Brifely main(){
+
+Brifely main()
+{
 I am a self-taught developer without a CS degree. I believe in baby step and hard-work to reach my goal.
 
 Skills:  C / C++ / Python / HTML / CSS
