@@ -14,8 +14,7 @@ Skills:  C / C++ / Python / HTML / CSS
 - 
 Learning Resource (Open Source CS degree, Freecodecamp, Udemy Courses, Youtube crash courses as well as edx such as CS50 from Harvard Uni;
 - 🤔 I’m looking for help with Web Internship opportunity 
-- 📫 How to reach me: https://www.linkedin.com/in/veng-srun/ 
-return 0; }
+- 📫 How to reach me: https://www.linkedin.com/in/veng-srun/  return 0; }
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/veng-srun/)  
 
