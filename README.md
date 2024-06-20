@@ -1,5 +1,3 @@
-### Hi there 👋, my name is Srun!
+Nothing is impossible all you need just get started !
 
-Skills:  HTML / CSS / JAVASCRIPT / JAVA
-
-
+Language: JAVA , Javascript 
